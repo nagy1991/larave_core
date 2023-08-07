@@ -1,8 +1,10 @@
 <?php
 
 return [
-    'page_titles' => 'Bejegyzések',
-    'page_address' => 'Bejegyzés',
+    'page_blog_titles' => 'Blog Bejegyzések',
+    'page_blog_address' => 'Blog Bejegyzés',
+    'page_forum_titles' => 'Forum Bejegyzések',
+    'page_forum_address' => 'Forum Bejegyzés',
     'title' => 'Cím',
     'new_post' => 'Cím hozzáadása',
     'content' => 'Tartalom',
